@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![pmlobanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmlobanov)](https://github.com/anuraghazra/github-readme-stats)
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlobanov)](https://github.com/pmlobanov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlobanov)](https://github.com/pmlobanov/github-readme-stats&theme=dark)
