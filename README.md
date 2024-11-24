@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello there!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Math+and+Computer+student+in+SPbPU" alt="Typing SVG" /></a>
-  ____
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Math+and+Computer+student+in+SPbPU" alt="Typing SVG" /></a></a> 
+ ____
 <!---Пример кода-->
 
 <!--
