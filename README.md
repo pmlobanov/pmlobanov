@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---Для подробной версии-->
+My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlobanov&theme=tokyonight)](https://github.com/pmlobanov/github-readme-stats) 
