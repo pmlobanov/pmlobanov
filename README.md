@@ -20,11 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---Для подробной версии-->
-My stats:
 
+<h3 align="center">My stats:</h3>
 
+<div align="center">
 
+  <img src="https://ghstats.dev/api/langs?username=pmlobanov&theme=nord&layout=donut" alt="Top Languages" />
 
+  <br/>
 
+  <img src="https://ghstats.dev/api/card?username=pmlobanov&theme=nord&border_radius=5&size=compact" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlobanov&theme=tokyonight)](https://github.com/pmlobanov/github-readme-stats) 
+</div>
+
